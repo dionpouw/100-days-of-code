@@ -1,10 +1,8 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Aldion Sumampouw]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [May 24, Tuesday, 2021].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+Learned how to make Advanced UI with Custom View (Inherited from a Widget & from View Class), what I get are there are alot possibilities in CustomView and also I struggled with it since there are a lot of component need to be made
